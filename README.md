@@ -7,6 +7,7 @@ I completed a BSc in Mathematical and Computing Sciences for Artificial Intellig
 ### Selected work
 
 - **[Data-driven schedules for masked diffusion](https://github.com/matteocolantoni23/masked-diffusion-schedules)** — thesis companion code for Gaussian information profiles, exact schedule optimization, and online scheduling experiments.
+- **[Image denoising architectures](https://github.com/matteocolantoni23/denoising-architectures)** — MLP, convolutional autoencoder, and U-Net comparisons under noise and held-out CIFAR-10 classes.
 - **[Hotel recommendation systems](https://github.com/matteocolantoni23/hotel-recommendation-systems)** — collaborative and content-based recommendation, ranking evaluation, and context-aware hybrids on hotel reviews.
 - **[Hopfield network simulation](https://github.com/katiarusso/stochastic-processes-simulation)** — collaborative course project on retrieval behavior in a stochastic associative memory.
 - **[Single-cell hypoxia classification](https://github.com/katiarusso/breast-cancer-ml-classification)** — collaborative ML project on hypoxic versus normoxic breast cancer cells.
